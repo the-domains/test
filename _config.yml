@@ -1,6 +1,6 @@
 name: Test
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.746
 typography_spectrum: 0.76932
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.44207333656959236
-  lightness: 0.3125
+    - '#d3d2d0'
+    - '#8fa2b2'
+    - '#120e0d'
+    - '#383232'
+    - '#846e56'
+  brandStrength: 0.5
+  lightness: 0.1875
   saturation: 1
-  rhythmicContrast: 0.6722812515217811
+  rhythmicContrast: 0.75
 purpose: []
