@@ -1,7 +1,7 @@
 name: Test
 favicon: null
-layout_spectrum: 0.01435291045345366
-typography_spectrum: 0.8252891884185374
+layout_spectrum: 1
+typography_spectrum: 0.76932
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.44207333656959236
-  lightness: 0.5071248298045248
-  saturation: 0.9855107495095581
+  lightness: 0.3125
+  saturation: 1
   rhythmicContrast: 0.6722812515217811
 purpose: []
